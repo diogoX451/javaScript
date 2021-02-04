@@ -1,7 +1,7 @@
 
 console.log("Meu Primeiro programa: trabalhando com variáveis");
 
-const idade = 26;
+const idade = 17;
 
 console.log("idade");
 console.log(idade);

@@ -2,8 +2,8 @@
 console.log("Trabalhando com variáveis");
 //JS é case sensitive
 
-const idade = 29;
-const nome = "Ricardo";
+const idade = 17;
+const nome = "Diogo";
 
 //não fazer
 //mes = "Janeiro";
