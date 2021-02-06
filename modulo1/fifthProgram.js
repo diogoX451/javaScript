@@ -9,6 +9,14 @@ console.log(`Meu nome é ${primeiroNome} ${sobrenome}`);
 
 let contador = 0
 contador = contador +1
+//let uma declaração que varia de acordo com a situação
+// for um belo exemplo do  let
+for (let i = 0; i <= 100; i++) {
+    const idade = 17;
+    const resultado = idade+i;
+    console.log(resultado);
+    
+}
 const nomeCompleto = primeiroNome + sobrenome;
 console.log(nomeCompleto);
-nomeCompleto =2;
+// nomeCompleto =2;
