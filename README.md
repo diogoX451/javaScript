@@ -6,12 +6,11 @@
 
 Tabela de contéudos
 
-<!--ts-->
-    *[Sobre](#JavaScript)
-    *[Tabela de Conteudo](#tabela-de-conteudo)
-        *[JavaScript](#JavaScript)
-        *[Node.js](#Node.js)
-<!--te-->
+<ul>
+    <li>JavaScrip</li>
+    <li>Node.js</li>
+</ul>
+
 
 <img src="https://img.shields.io/badge/-javascript-green">
 <img src="	https://img.shields.io/github/stars/diogoX451/javaScript">
