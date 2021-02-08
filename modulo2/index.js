@@ -9,7 +9,6 @@ class Cliente{
 class ContaCorrente{
     agencia;
     saldo;
-
     //metodos usar () onde vai ter uma operação
      //para trabalhar com parametro da mesma class usa this
     saque(valor){
