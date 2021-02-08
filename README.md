@@ -5,3 +5,4 @@
 <p align="center"> Projeto sendo desenvolvido para evolução de estudos da linguagem JavaScript</p>
 
 <img src="https://img.shields.io/badge/-javascript-green">
+<img src="https://img.shields.io/github/forks/diogoX451/javaScript">
