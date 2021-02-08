@@ -32,9 +32,11 @@ $ git clone <https://github.com/diogoX451/javaScript.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd javaScript
+```
 
 <img src="https://img.shields.io/badge/-javascript-green">
 <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FDioguin18807855">
+
 
 <h4 align="center"> 
 	🚧  Repositório 🚀 Em construção...  🚧
