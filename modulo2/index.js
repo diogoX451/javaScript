@@ -2,6 +2,8 @@
 
 import { Cliente } from "./Cliente.js";
 import { ContaCorrente } from "./ContaCorrente.js";
+//new
+import { ContaPoupanca } from "./modulo3/ContaPoupanca.js";
 
 //chamar a class 
 
@@ -24,7 +26,13 @@ const contaDiogo = new ContaCorrente(1003, cliente1);
 const cliente2 = new Cliente("Guilherme", 10150106203);
 const contaGuilherme = new ContaCorrente(1004, cliente2);
     
-
  contaDiogo.transferir(100,contaGuilherme);
  console.log(ContaCorrente.numberConta);
+
+// new module
+
+const contaPoupanca = new ContaPoupanca(50, cliente1, 1003);
+console.log(contaPoupanca);
+
+
 
